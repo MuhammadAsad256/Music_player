@@ -1,3 +1,4 @@
+# MP3 Music Player
 <p style="text-align: start;color: rgb(31, 31, 31);background-color: rgb(255, 255, 255);font-size: 16px;"><strong><strong>This Python script creates a user-friendly MP3 player with a graphical interface (Tkinter) and audio playback (Pygame). Users can easily manage their music experience by:</strong></strong></p>
 <ul style="text-align: start;color: rgb(31, 31, 31);background-color: rgb(255, 255, 255);font-size: 16px;">
     <li>Selecting a folder containing MP3 files.</li>
